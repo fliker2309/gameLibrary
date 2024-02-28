@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "gameLibrary"
 include(":app")
- 
+include(":domain")

@@ -1,7 +1,8 @@
-package com.example.gamelibrary
+package com.example.gamelibrary.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.gamelibrary.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
